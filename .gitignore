@@ -1,0 +1,10 @@
+# editors
+.idea
+.iml
+*.swp
+.history
+
+# misc
+.DS_Store
+*.pem
+*.key
