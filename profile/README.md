@@ -7,4 +7,4 @@
   </picture>
 </p>
 
-Automenu is building the marketing automation and data insights platform for restaurants. We empower restaurant owners to leverage data to personalize customer experiences, drive efficient growth, and maximize profits.
+Automenu is building an AI-powered marketing automation and data insights platform for restaurants. Our goal is to help restaurant owners leverage data to personalize customer experiences, drive efficient growth, and maximize profits.
